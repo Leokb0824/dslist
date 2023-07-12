@@ -23,8 +23,8 @@ public class Game {
 	private String genre;
 	private String platform;
 	private String imgUrl;
-	private String shortDescripition;
-	private String longDescripition;
+	private String shortDescription;
+	private String longDescription;
 	
 	public Game() {
 	}
